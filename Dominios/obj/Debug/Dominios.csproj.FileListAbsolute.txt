@@ -1,0 +1,12 @@
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\bin\Debug\Dominios.dll
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\bin\Debug\Dominios.pdb
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\obj\Debug\Dominios.csproj.AssemblyReference.cache
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\obj\Debug\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\obj\Debug\Dominios.dll
+C:\Users\Seba\source\repos\TPFInal2_RaggiSebastian\Dominios\obj\Debug\Dominios.pdb
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\bin\Debug\Dominios.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\bin\Debug\Dominios.pdb
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Debug\Dominios.csproj.AssemblyReference.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Debug\Dominios.csproj.CoreCompileInputs.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Debug\Dominios.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Debug\Dominios.pdb

@@ -1,0 +1,9 @@
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\bin\Release\Conexiones.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\bin\Release\Conexiones.pdb
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\bin\Release\Dominios.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\bin\Release\Dominios.pdb
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\obj\Release\Conexiones.csproj.AssemblyReference.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\obj\Release\Conexiones.csproj.CoreCompileInputs.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\obj\Release\Conexiones.csproj.CopyComplete
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\obj\Release\Conexiones.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Conexiones\obj\Release\Conexiones.pdb

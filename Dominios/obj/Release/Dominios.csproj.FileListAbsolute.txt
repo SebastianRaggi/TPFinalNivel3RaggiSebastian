@@ -1,0 +1,6 @@
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\bin\Release\Dominios.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\bin\Release\Dominios.pdb
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Release\Dominios.csproj.AssemblyReference.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Release\Dominios.csproj.CoreCompileInputs.cache
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Release\Dominios.dll
+D:\Usuarios\Seba\Desktop\TpFinal3RaggiSebastian\Dominios\obj\Release\Dominios.pdb
